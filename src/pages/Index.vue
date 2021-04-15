@@ -54,7 +54,7 @@
             [x] B. A. D.
           </h3>
           <p class="text-lg text-left">
-            [x] is whatever you want it to be. Insert your dream, idea, etc into [x] and we will make it happen.<span class="border-b border-dashed border-ui-primary text-ui-primary">[x] By A Dragon</span>.
+            [x] is whatever you want it to be. Insert your dream, idea, etc into [x] and we will make it happen. <span class="border-b border-dashed border-ui-primary text-ui-primary">[x] By A Dragon</span>.
           </p>
         </div>
 
