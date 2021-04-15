@@ -30,7 +30,7 @@
         </div>
 
         <p class="mt-8 text-center">
-          Find your [x]. <span class="border-b border-dashed border-ui-primary text-ui-primary">After all, it's who you are.</span>.
+          Find your [x]. <span class="border-b border-dashed border-ui-primary text-ui-primary">After all, it's who you are</span>.
         </p>
 
       </div>
