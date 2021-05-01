@@ -19,7 +19,7 @@ module.exports = {
     github: process.env.URL_GITHUB || 'https://git.drgn.xyz/ericdrgn' ,
     nav: {
       links: [
-        { path: '/learn/', title: 'Learn' }
+        { path: '/learn/', title: ' ' }
       ]
     },
     sidebar: [
