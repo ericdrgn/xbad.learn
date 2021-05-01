@@ -1,5 +1,5 @@
 <template>
-<img src="/logo.png" alt="Dragon" style="width:202px;height:30px;">
+<img src="/logo.png" alt="Dragon" style="width:43px;height:30px;">
 </template>
 
 <script>
