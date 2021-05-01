@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="flex items-center justify-between -mx-2 sm:-mx-4">
-        <div class="flex-grow flex-col items-center px-2 mr-auto sm:px-4 sm:flex-row">
+        <div class="flex flex-col items-center px-2 mr-auto sm:px-4 sm:flex-row">
           <g-link
             to="/"
             class="flex items-center text-ui-primary"
