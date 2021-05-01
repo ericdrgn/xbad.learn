@@ -2,7 +2,12 @@
   <Layout>
     <div class="pt-8 md:pt-16">
       <div class="flex flex-col items-center">
-        
+        <div class="flex flex-col items-center mb-2 text-ui-primary">
+          <LogoBanner :width="80" />
+          <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
+
+          </h2>
+</div>
         <h1 class="text-4xl text-center lg:text-3xl">
           Documentation &amp; Learning Center. Done Right.
         </h1>
@@ -69,7 +74,7 @@
 </template>
 
 <script>
-import Logo from '@/components/Logo';
+import LogoBanner from '@/components/LogoBanner';
 import { ArrowRightCircleIcon, BookOpenIcon, CodeIcon, MailIcon, XIcon } from 'vue-feather-icons';
 
 export default {
