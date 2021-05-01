@@ -79,7 +79,7 @@ import { ArrowRightCircleIcon, BookOpenIcon, CodeIcon, MailIcon, XIcon } from 'v
 
 export default {
   components: {
-    Logo,
+    LogoBanner,
     ArrowRightCircleIcon,
     BookOpenIcon,
     CodeIcon,
