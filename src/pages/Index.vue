@@ -8,11 +8,11 @@
           
           </h2>
         </div>
-        <h1 class="text-4xl text-center lg:text-5xl">
+        <h1 class="text-4xl text-center lg:text-3xl">
           Documentation &amp; Learning Center. Done Right.
         </h1>
         <p class="text-xl font-medium text-center">
-          [x] by a dragon, use this as a resource to learn how to use what we offer as well as some tips to get started yourself.
+          Use this as a resource to learn how to use what we offer as well as some tips to get started yourself.
           <br>
           <strong class="text-ui-primary">Control your [x].</strong>
         </p>
@@ -30,7 +30,7 @@
         </div>
 
         <p class="mt-8 text-center">
-          Find your [x]. <span class="border-b border-dashed border-ui-primary text-ui-primary">After all, it's who you are</span>.
+          Find your [x]. <span class="border-b border-dashed border-ui-primary text-ui-primary">After all, it's who <i>you</i> are</span>.
         </p>
 
       </div>
