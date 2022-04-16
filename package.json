@@ -7,7 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.7.23"
+    "gridsome": "^0.7.23",
     "vue": "^3.2.33"
   },
   "devDependencies": {
