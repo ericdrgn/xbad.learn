@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "gridsome": "^0.7.23"
+    "vue": "^3.2.33"
   },
   "devDependencies": {
     "@gridsome/plugin-google-analytics": "^0.1.0",
